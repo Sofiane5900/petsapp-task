@@ -32,7 +32,6 @@ normaliseAppointmentDate(raw: string): string | null
 ## Setup
 
 ```bash
-cd task2
 npm install
 ```
 
