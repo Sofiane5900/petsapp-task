@@ -6,7 +6,13 @@
     "esModuleInterop": true,
     "skipLibCheck": true,
     "outDir": "dist",
-    "types": ["jest"]
+    "types": [
+      "jest"
+    ]
   },
-  "include": ["*.ts"]
+  "include": [
+    "*.ts",
+    "utils/utils.test.ts",
+    "utils/utils.ts"
+  ]
 }
